@@ -21,44 +21,28 @@
 <div align="center">
 
 ### Languages
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
-
-<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql" alt="Languages" />
+</p>
 
 ### AI / ML
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
-
-<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI/ML Frameworks" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas" style="vertical-align: middle; margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy" style="vertical-align: middle; margin: 0 5px;" />
+</p>
 
 ### Generative AI
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=openai" width="55"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" width="55"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" width="55"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ollama" width="55"/>
-
-<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=openai,hf" alt="GenAI" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" width="50" alt="LangChain" style="vertical-align: middle; margin: 0 5px;" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama" width="50" alt="Ollama" style="vertical-align: middle; margin: 0 5px;" />
+</p>
 
 ### Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="55"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,jest,vercel" alt="Tools" />
+</p>
 
 </div>
 
