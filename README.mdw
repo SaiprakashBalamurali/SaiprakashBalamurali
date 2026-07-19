@@ -1,88 +1,135 @@
-Hi 👋, I'm Saiprakash B
-AI/ML & Data Science Enthusiast | Python Developer | Generative AI Explorer
-�
-￼ 
+# Hi 👋, I'm Saiprakash B
 
-👨‍💻 About Me
-🎓 B.Sc. Computer Science — Artificial Intelligence & Data Science graduate
-🤖 Interested in Artificial Intelligence, Machine Learning, Data Science, Computer Vision, NLP, and Generative AI
-🧠 Exploring LLMs, RAG pipelines, LangChain, LangGraph, Agentic AI, and AI Agents
-📊 Experienced with data analysis and visualization using Power BI, Tableau, Pandas, NumPy, and Matplotlib
-💡 I enjoy building AI-powered applications that solve real-world problems
-🚀 Currently focused on strengthening my skills and building production-ready AI/ML projects
-💼 Open to entry-level opportunities in AI/ML, Data Science, Data Analytics, and related roles
-🌐 Connect With Me
-�
-￼ ￼ ￼ 
+**AI/ML & Data Science Enthusiast | Python Developer | Generative AI Explorer**
 
-🛠️ Tech Stack
-Languages
-�
-￼ 
+---
 
-AI, Machine Learning & Data Science
-� � � � � �
-Generative AI
-Large Language Models (LLMs) • LangChain • LangGraph • RAG • Agentic AI • Prompt Engineering • AI Agents
-Data Visualization & BI
-Power BI • Tableau • DAX • Matplotlib • Seaborn
-Tools & Development
-�
-￼ 
+## 👨‍💻 About Me
 
-Jupyter Notebook • Vercel
-🚀 Featured Projects
-🤟 Sign Language Gesture Recognition
-Python | OpenCV | MediaPipe | Computer Vision
-Built a real-time American Sign Language gesture recognition system supporting 20+ gestures
-Used MediaPipe's 21-point hand tracking for landmark extraction
-Achieved real-time inference at approximately 24 FPS
-Designed a modular pipeline for capture, preprocessing, feature extraction, and classification
-🔗 View Repository
-📩 SMS Spam Detection
-Python | Pandas | NLTK | Scikit-learn | TF-IDF
-Developed an end-to-end NLP classification pipeline using 5,574 labelled SMS messages
-Performed text cleaning, tokenization, stopword removal, and TF-IDF vectorization
-Achieved approximately 97.2% accuracy and 96.8% F1-score
-Benchmarked classification approaches including Naive Bayes and Logistic Regression
-🔗 View Repository
-📊 Blinkit Sales Intelligence Dashboard
-Power BI | DAX | Data Modelling | KPI Design
-Analysed 8,500+ retail transactions
-Explored purchasing patterns across item types, fat content, outlet characteristics, and ratings
-Designed an interactive executive dashboard with KPI cards, slicers, and analytical views
-Used data modelling and DAX to transform raw retail data into actionable insights
-🔗 View Repository
-👕 AI-Based Smart Outfit Recommendation System
-Recommendation System | Cosine Similarity | Responsive Web UI
-Built a content-based recommendation engine using cosine similarity
-Generates personalized outfit suggestions based on occasion, style, and colour preferences
-Integrated recommendation logic with a responsive user-facing web interface
-Demonstrates end-to-end development from recommendation logic to deployment
-🔗 View Live Project
-💼 Experience
-Artificial Intelligence & Robotics Intern — Robomiracle
-Developed a real-time hand gesture recognition pipeline using Python, OpenCV, and MediaPipe
-Worked with 21-landmark skeletal hand detection across varying conditions
-Developed speech-to-text voice assistant functionality for touchless interaction
-Gained practical experience with AI inference, preprocessing, robotics pipeline integration, and low-latency optimization
-🎓 Education
-B.Sc. Computer Science — Artificial Intelligence & Data Science
-Sri Ramakrishna College of Arts and Science
-2023 – 2026
-Relevant Coursework: Machine Learning, Deep Learning, Natural Language Processing, Data Structures & Algorithms, Database Management Systems, and Statistics for Data Science.
-📈 GitHub Stats
-�
-￼ ￼ 
+🎓 **B.Sc. Computer Science** — Artificial Intelligence & Data Science graduate from Sri Ramakrishna College of Arts and Science
 
-🔥 GitHub Streak
-�
-￼ 
+🤖 **Passionate about**: AI/ML, Computer Vision, NLP, LLMs, and building production-ready AI solutions
 
-📊 Contribution Graph
-�
-￼ 
+🧠 **Currently exploring**: LangChain, LangGraph, RAG pipelines, Agentic AI, and AI Agents
 
-👀 Profile Views
-�
-￼
+📊 **Experienced with**: Data analysis, visualization, and turning insights into actionable intelligence
+
+💼 **Open to**: Entry-level roles in AI/ML, Data Science, and Data Analytics
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI, Machine Learning & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5D?style=for-the-badge&logo=python&logoColor=white)
+
+### Generative AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Data Visualization & BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-360D5E?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤟 Sign Language Gesture Recognition
+**Real-time American Sign Language recognition system**
+- Built with: **Python** | **OpenCV** | **MediaPipe** | **Computer Vision**
+- 20+ gesture recognition with real-time inference (~24 FPS)
+- 21-point hand tracking for accurate landmark extraction
+- Modular pipeline architecture for production deployment
+- [View Repository →](https://github.com/SaiprakashBalamurali)
+
+### 📩 SMS Spam Detection
+**End-to-end NLP classification pipeline**
+- Built with: **Python** | **Pandas** | **NLTK** | **Scikit-learn** | **TF-IDF**
+- Processed 5,574 labelled SMS messages with precision preprocessing
+- Achieved **97.2% accuracy** and **96.8% F1-score**
+- Benchmarked multiple classification approaches
+- [View Repository →](https://github.com/SaiprakashBalamurali)
+
+### 📊 Blinkit Sales Intelligence Dashboard
+**Interactive executive retail analytics dashboard**
+- Built with: **Power BI** | **DAX** | **Data Modelling**
+- Analysed 8,500+ retail transactions
+- Designed KPI cards, slicers, and analytical views
+- Transformed raw retail data into actionable insights
+- [View Repository →](https://github.com/SaiprakashBalamurali)
+
+### 👕 AI-Based Smart Outfit Recommendation System
+**Content-based recommendation engine with web UI**
+- Built with: **Recommendation System** | **Cosine Similarity** | **Responsive Design**
+- Personalized outfit suggestions based on occasion, style, and colour
+- End-to-end development from ML logic to deployment
+- [View Live Project →](https://saiprakash-s-portfolio.vercel.app)
+
+---
+
+## 💼 Experience
+
+### Artificial Intelligence & Robotics Intern — **Robomiracle**
+
+- Developed real-time hand gesture recognition pipeline using Python, OpenCV, and MediaPipe
+- Worked with 21-landmark skeletal hand detection across varying lighting and conditions
+- Built speech-to-text voice assistant for touchless interaction and accessibility
+- Optimized AI inference for low-latency robotics pipeline integration
+- Gained hands-on experience with computer vision preprocessing and model deployment
+
+---
+
+## 🎓 Education
+
+### B.Sc. Computer Science — Artificial Intelligence & Data Science
+**Sri Ramakrishna College of Arts and Science** | 2023 – 2026
+
+**Relevant Coursework**: Machine Learning, Deep Learning, Natural Language Processing, Data Structures & Algorithms, Database Management Systems, Statistics for Data Science
+
+---
+
+## 📈 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiprakashBalamurali&theme=transparent&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaiprakashBalamurali&theme=transparent)
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saiprakash-b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiprakashBalamurali)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saiprakash-s-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+<div align="center">
+
+**Let's build something amazing together!** 🚀
+
+</div>
